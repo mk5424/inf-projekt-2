@@ -2,7 +2,7 @@
 
 Projekt w Pythonie (PyQt5) symulujący przepływ trzech barwników (czerwony, zielony, niebieski) do dużego zbiornika z dynamicznym mieszaniem kolorów.
 
-**Struktura kodu**
+## Struktura kodu
 
 Kod projektu jest podzielony w czytelny sposób:
 
