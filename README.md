@@ -2,6 +2,18 @@
 
 Projekt w Pythonie (PyQt5) symulujący przepływ trzech barwników (czerwony, zielony, niebieski) do dużego zbiornika z dynamicznym mieszaniem kolorów.
 
+**Struktura kodu**
+
+Kod projektu jest podzielony w czytelny sposób:
+
+main.py – główny plik, w którym uruchamiana jest aplikacja.
+
+Klasy pomocnicze – zarządzają logiką zbiorników, przepływem cieczy oraz historią wlewania.
+
+Moduły GUI – odpowiadają za interfejs, wizualizację przepływu i interakcję użytkownika.
+
+Dzięki takiej strukturze kod jest przejrzysty, łatwy w rozbudowie i utrzymaniu.
+
 ![Widok Aplikacji](widok.png)
 
 **Funkcjonalności**
