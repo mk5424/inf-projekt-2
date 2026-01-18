@@ -12,9 +12,7 @@ Kod projektu jest podzielony w czytelny sposób:
 
 Dzięki takiej strukturze kod jest przejrzysty, łatwy w rozbudowie i utrzymaniu.
 
-![Widok Aplikacji](widok.png)
-
-##Funkcjonalności
+## Funkcjonalności
 
 Trzy małe zbiorniki barwników (czerwony, zielony, niebieski) z zaworami.
 
@@ -35,3 +33,5 @@ Możliwość uzupełnienia barwników do pełna przyciskiem “+”.
 Wylewanie zawartości dużego zbiornika i zapis stanu do historii.
 
 Raport w oknie dialogowym pokazujący historię wlewania barwników wraz z kolorem w postaci wizualnej.
+
+![Widok Aplikacji](widok.png)
