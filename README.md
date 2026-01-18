@@ -6,17 +6,15 @@ Projekt w Pythonie (PyQt5) symulujący przepływ trzech barwników (czerwony, zi
 
 Kod projektu jest podzielony w czytelny sposób:
 
-main.py – główny plik, w którym uruchamiana jest aplikacja.
-
-Klasy pomocnicze – zarządzają logiką zbiorników, przepływem cieczy oraz historią wlewania.
-
-Moduły GUI – odpowiadają za interfejs, wizualizację przepływu i interakcję użytkownika.
+  main.py – główny plik, w którym uruchamiana jest aplikacja.
+  Klasy pomocnicze – są odpowiedzialne za logikę tworzenia wykorzystywanych obiektów.
+  Moduły GUI – odpowiadają za wizualizację przepływu.
 
 Dzięki takiej strukturze kod jest przejrzysty, łatwy w rozbudowie i utrzymaniu.
 
 ![Widok Aplikacji](widok.png)
 
-**Funkcjonalności**
+##Funkcjonalności
 
 Trzy małe zbiorniki barwników (czerwony, zielony, niebieski) z zaworami.
 
